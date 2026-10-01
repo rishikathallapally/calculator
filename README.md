@@ -35,3 +35,7 @@ This project was created as a beginner-level frontend project to practice JavaSc
 ## 👩‍💻 Author
 
 Rishika
+
+## 🌐 Live Demo
+
+[View Live Calculator](https://rishikathallapally.github.io/calculator/)
